@@ -1,0 +1,7 @@
+국립한밭대학교
+Hanbat National University
+
+git add lib/domains/kr/ac/Hanbat/edu
+git commit -m "Add Hanbat National University"
+
+git push
